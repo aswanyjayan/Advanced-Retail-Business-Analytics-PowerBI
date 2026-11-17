@@ -128,6 +128,28 @@ This project demonstrates an end-to-end retail business analytics workflow using
 
 The dashboards provide different perspectives on business performance, including revenue and profitability, customer behaviour, sales trends, product returns and inventory requirements.
 
+
+## Dashboard Screenshots
+
+### 1. Executive Overview
+![Executive Overview](Dashboard_Screenshots/Executive%20Overview.png)
+
+### 2. Sales Analysis
+![Sales Analysis](Dashboard_Screenshots/Sales%20Analysis.png)
+
+### 3. Time Intelligence
+![Time Intelligence](Dashboard_Screenshots/Time%20Intelligence.png)
+
+### 4. Customer Analytics
+![Customer Analytics](Dashboard_Screenshots/Customer%20Analytics.png)
+
+### 5. Returns & Profitability
+![Returns & Profitability](Dashboard_Screenshots/Returns%20%26%20Profitability.png)
+
+### 6. Inventory & Operations
+![Inventory & Operations](Dashboard_Screenshots/Inventory%20%26%20Operations.png)
+
+
 The project also provides practical experience in working with imperfect data, developing business measures, analysing relationships between multiple datasets and presenting results through interactive dashboards.
 
 The overall objective is to demonstrate the ability to transform raw business data into structured analysis and meaningful information that can support business decision-making.
